@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Js and DSA concepts**
 
-- 📂 Here is my [portfolio](https://karthikkumar-portfolio.netlify.app/)
+<!-- - 📂 Here is my [portfolio](https://karthikkumar-portfolio.netlify.app/) -->
 
 - 📫 How to reach me **karthikkumar1552005@gmail.com**
 
